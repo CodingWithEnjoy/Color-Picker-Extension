@@ -5,7 +5,7 @@
 
 Preview | نتیجه ی کار 😊😉
 
-فایل گیف
+preview.gif
 
 
 اگه خوشتون اومد حتما پیج ما رو فالو کنید @codingwithenjoy
