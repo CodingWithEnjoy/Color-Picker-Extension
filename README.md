@@ -1,4 +1,4 @@
-<h2 align="center">Gradient Maker | گرادینت ساز</h2>
+<h2 align="center">Color Picker | انتخاب رنگ</h2>
 
 ###
 
